@@ -7,6 +7,5 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/wind
 
 ;2021-10 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x86_9127c444f99c522aa23221c7a8a6607089f2bb8f.msu
-
 ;2021-11 Windows 10 1809 基于 x64 系统的累计更新
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008218-x64_66e07f2fc23728ca0b8f395df15da52546e45e45.msu
